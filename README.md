@@ -202,23 +202,6 @@ npm run dev
 - `docs/CARD_SYSTEM.md` - カードシステム仕様
 - `docs/SCORING_SYSTEM.md` - 採点システム仕様
 
-## 🤝 コントリビューション
-
-### 開発に参加する
-
-1. このリポジトリをフォーク
-2. 機能ブランチを作成 (`git checkout -b feature/amazing-feature`)
-3. 変更をコミット (`git commit -m 'Add amazing feature'`)
-4. ブランチにプッシュ (`git push origin feature/amazing-feature`)
-5. プルリクエストを作成
-
-### 報告・提案
-
-- バグ報告
-- 機能提案
-- ドキュメント改善
-- UI/UX 改善
-
 ## 📄 ライセンス
 
 このプロジェクトは MIT ライセンスの下で公開されています。
@@ -245,9 +228,3 @@ npm run dev
 - コミュニティフォーラム
 
 ---
-
-**開発者**: Manus AI Agent  
-**バージョン**: 2.0.0 (Django+FastAPI 統合版)  
-**最終更新**: 2025 年 9 月 12 日
-
-上品で知的なレスバゲームをお楽しみください！
